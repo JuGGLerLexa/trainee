@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="90bffb6b-85cb-4930-becf-cabba45f277a" name="Default Changelist" comment="show hint item">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/announcements/Announcements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/announcements/Announcements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search-panel/SearchPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/SearchPanel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="ProjectId" id="1lkCPyIz0KsZ9NPX26WDR0iYSPJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -32,14 +32,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_help_hw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -79,6 +83,10 @@
       <workItem from="1608131683709" duration="88656000" />
       <workItem from="1608370090472" duration="37344000" />
       <workItem from="1608487002810" duration="5287000" />
+      <workItem from="1608629842713" duration="2941000" />
+      <workItem from="1608714456799" duration="9320000" />
+      <workItem from="1608729042829" duration="1392000" />
+      <workItem from="1608752001935" duration="1600000" />
     </task>
     <task id="LOCAL-00001" summary="---">
       <created>1608155020655</created>
@@ -323,6 +331,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="---" />
     <MESSAGE value="60%" />
     <MESSAGE value="85%" />
@@ -343,5 +352,15 @@
     <MESSAGE value="fix find problem with hints" />
     <MESSAGE value="add button &quot;Show all&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="add button &quot;Show all&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="305" key="#ESLint" timestamp="1608723058753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="638" y="305" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1608723058753" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608752590112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608752590112" />
   </component>
 </project>
