@@ -4,7 +4,7 @@ import logo from "../../logo.svg";
 import HeaderItem from "../header-item/HeaderItem";
 
 class Header extends Component {
-  headerArr = ['Home', 'Users', 'Announcements']
+  headerArr = ['Home', 'Announcements']
   render() {
     return (
         <div className='header-wrapper'>
